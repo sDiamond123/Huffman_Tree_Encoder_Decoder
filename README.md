@@ -10,4 +10,4 @@ In the included example, [this file](https://github.com/sDiamond123/Huffman_Tree
 
 This was written for storing and displaying text on harware with modest capability (The Gameboy Advance in specific). An [example GBA Homebrew impmentation can be found here](https://github.com/sDiamond123/LTE_GBA_2/):
 
-![Recording 2025-11-13 at 22 59 20](https://github.com/user-attachments/assets/d26bacea-8d4d-4c7c-a968-aceb72aafcb4)
+![Recording 2025-11-14 at 00 20 59](https://github.com/user-attachments/assets/23dddc51-a20d-486a-be80-d80f6e99b7e7)
