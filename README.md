@@ -1,6 +1,9 @@
 These are basic utility files used to generate a Huffman tree and compress/decompress plaintext with Huffman codes. 
 
-Also includes some compressed bitmap charecters to use.
+Also includes some compressed bitmap charecters to use. 
+
+[Uncompressed Charecters](https://github.com/sDiamond123/Huffman_Tree_Encoder_Decoder/blob/main/Light_Text_Engine/LTE_bitmap_alphabet.h)
+[Compressed Charecters](https://github.com/sDiamond123/Huffman_Tree_Encoder_Decoder/blob/main/Light_Text_Engine/LTE_glyphs.c)
 
 In the included example, [this file](https://github.com/sDiamond123/Huffman_Tree_Encoder_Decoder/blob/main/Light_Text_Engine/test_txt.txt) was used to generate the Huffman tree ([found here](https://github.com/sDiamond123/Huffman_Tree_Encoder_Decoder/blob/main/Light_Text_Engine/LTE_huff_decoder.c)). This [text file](https://github.com/sDiamond123/Huffman_Tree_Encoder_Decoder/blob/main/Light_Text_Engine/test_2.txt) (~1500 charecters) was then compressed [here](https://github.com/sDiamond123/Huffman_Tree_Encoder_Decoder/blob/main/Light_Text_Engine/LTE_text.bin) (~1000 bytes) for a 3:2 compression ratio which is not great but better then nothing. 
 
